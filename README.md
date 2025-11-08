@@ -27,7 +27,7 @@
 
 [![Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,go,linux,docker,kubernetes,terraform,ansible,aws&theme=dark)](https://skillicons.dev)
 
-### Language Stats
+## 📊 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denesbeck&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denesbeck&theme=tokyonight&show_icons=true&show=prs_merged)
