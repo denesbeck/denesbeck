@@ -25,7 +25,7 @@
 
 ## 🛠️ Skills
 
-[![Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,go,linux,docker,kubernetes,terraform,ansible,aws&theme=dark&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,go,linux,docker,kubernetes,terraform,ansible,aws&theme=dark)](https://skillicons.dev)
 
 ### Language Stats
 
