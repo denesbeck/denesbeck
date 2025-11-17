@@ -9,13 +9,13 @@
 
 ## 🎤 Bio
 
-🚀 I'm a self-taught full-stack software engineer with 6 years of experience.
+🚀 I'm a self-taught full-stack software engineer with **6 years** of experience.
 
 🏗️ I specialize in developing scalable, efficient, and maintainable applications using modern frameworks and best practices. I thrive on building self-hosted solutions and automating workflows, with a deep interest in DevOps, security and infrastructure management.
 
-🛠️ I'm a huge Nvim and Tmux enthusiast — both help me optimize my development environment (check out my [dotfiles](https://github.com/denesbeck/dotfiles)).
+🛠️ I'm a huge **Nvim** and **Tmux** enthusiast — both help me optimize my development environment (check out my [dotfiles](https://github.com/denesbeck/dotfiles)).
 
-💼 I mostly work with JavaScript and TypeScript, but I'm also comfortable working with other languages like Python and Lua. I'm currently diving into Golang. Feel free to check out my latest Go project [here](https://github.com/denesbeck/code-sync).
+💼 I mostly work with **JavaScript** and **TypeScript**, but I'm also comfortable working with other languages like **Python** and **Lua**. I'm currently diving into **Golang**. Feel free to check out my latest Go project, **Code Sync**, [here](https://github.com/denesbeck/code-sync).
 
 ## ✉️ Contact
 
