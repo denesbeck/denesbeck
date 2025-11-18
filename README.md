@@ -15,7 +15,7 @@
 
 🛠️ I'm a huge **Nvim** and **Tmux** enthusiast — both help me optimize my development environment (check out my [dotfiles](https://github.com/denesbeck/dotfiles)).
 
-💼 I mostly work with **JavaScript** and **TypeScript**, but I'm also comfortable working with other languages like **Python** and **Lua**. I'm currently diving into **Golang**. Feel free to check out my latest Go project, **Code Sync**, [here](https://github.com/denesbeck/code-sync).
+💼 I mostly work with **JavaScript** and **TypeScript**, but I'm also comfortable working with other languages like **Python** and **Lua**. I'm currently diving into **Golang**. Check out [Code Sync](https://github.com/denesbeck/code-sync), my latest project written in Go.
 
 ## ✉️ Contact
 
