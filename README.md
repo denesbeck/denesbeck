@@ -29,8 +29,8 @@
 
 ## 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denesbeck&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=denesbeck&theme=tokyonight&show_icons=true&show=prs_merged)
+[![Top Langs](https://github-readme-stats-rho-green-74.vercel.app/api/top-langs/?username=denesbeck&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-rho-green-74.vercel.app/api?username=denesbeck&theme=tokyonight&show_icons=true&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎓 Certifications
 
