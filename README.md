@@ -15,7 +15,7 @@
 
 🛠️ I'm a huge Nvim and Tmux enthusiast — both help me optimize my development environment (check out my [dotfiles](https://github.com/denesbeck/dotfiles)).
 
-💼 I mostly work with JavaScript and TypeScript, but I'm also comfortable working with other languages like Python and Lua. I'm currently diving into Golang. Feel free to check out my latest Go project [here](https://github.com/denesbeck/nexio).
+💼 I mostly work with JavaScript and TypeScript, but I'm also comfortable working with other languages like Python and Lua. I'm currently diving into Golang. Take a look at [Nexio](https://github.com/denesbeck/nexio), my latest project written in Go.
 
 ## ✉️ Contact
 
@@ -30,7 +30,7 @@
 ## 📊 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denesbeck&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denesbeck&theme=tokyonight&show_icons=true&show=prs_merged)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=denesbeck&theme=tokyonight&show_icons=true&show=prs_merged)
 
 ## 🎓 Certifications
 
