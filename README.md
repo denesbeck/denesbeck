@@ -9,7 +9,7 @@
 
 ## 🎤 Bio
 
-🚀 I'm a self-taught full-stack software engineer with 6 years of experience.
+🚀 I'm a self-taught full-stack software engineer with 7 years of experience.
 
 🏗️ I specialize in developing scalable, efficient, and maintainable applications using modern frameworks and best practices. I thrive on building self-hosted solutions and automating workflows, with a deep interest in DevOps, security and infrastructure management.
 
